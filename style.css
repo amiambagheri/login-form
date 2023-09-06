@@ -1,0 +1,63 @@
+:root {
+    font-size: 62.5%;
+}
+* {
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(247, 247, 247);
+    font-size: 1.6rem;
+}
+.body-form {
+    margin: auto;
+    background-color: #fff;
+    width: 45rem;
+    height: 45rem;
+}
+h3 {
+    text-align: center;
+    padding-top: 2rem;
+}
+h5 {
+    text-align: center;
+}
+.form-holder {
+    width: 34rem;
+    margin: auto;
+}
+.in1,.in2{
+    height: 4rem;
+    display: block;
+    width: inherit;
+}
+
+.lab1,.lab2 {
+    display: block;
+    margin-top: 2rem;
+    
+}
+
+.btn-holder {
+    width: 34rem;
+    margin: auto;
+}
+.btn {
+    width: 11rem;
+    height: 5rem;
+    background-color: #fff;
+    border:1px solid #ccc;
+    
+}
+.check {
+    margin-top: 2rem;
+    font-size: small;
+}
+.check a {
+    margin-left: 6.5rem;
+}
+.btn-sub {
+    margin-top: 2rem;
+    background-color: rgb(250, 82, 82);
+    color: #fff;
+}
