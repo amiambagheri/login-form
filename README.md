@@ -1,3 +1,3 @@
 # login form
 
-small login form to learn basic css
+simple login form for learning basic CSS.
